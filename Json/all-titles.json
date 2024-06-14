@@ -1,0 +1,39 @@
+{
+    "inicial": [
+        "Herramientas-pedagogicas-Inicial",
+        "Dotacion-2024-Inicial",
+        "Inicial-Ingles-5-anos",
+        "Inicial-Ingles-4-anos",
+        "Inicial-Ingles-3-anos",
+        "Aprendo-en-Casa-Inicial",
+        "Materiales-educativos-Inicial",
+        "Comprension-lectora-Inicial",
+        "Apropiacion-de-la-lectura-y-escritura-Inicial"
+    ],
+    "primaria": [
+        "Aprendemos-Juntos-en-Familia",
+        "Apropiacion-de-la-lectura-y-escritura-Primaria",
+        "Dotacion-2024-Primaria",
+        "Fichas-para-seguir-aprendiendo-Comunicacion",
+        "Fichas-para-seguir-aprendiendo-Matematica",
+        "Fichas-para-el-soporte-socioemocional",
+        "Aprendo-en-Casa-DEFID",
+        "Fasciculos-de-evaluacion-diagnostica",
+        "Aprendo-en-Casa-Primaria",
+        "Comprension-lectora-Primaria",
+        "Coleccion-Aprendo-en-Casa",
+        "Construccion-de-la-nocion-de-numero",
+        "Plan-de-lectura-2023-Primaria"
+    ],
+    "secundaria": [
+        "Evaluacion-diagnostica-Refuerzo-escolar-2024",
+        "Herramientas-pedagogicas-Secundaria",
+        "Dotacion-2024-Secundaria",
+        "Desarrollo-de-habilidades-socioemocionales",
+        "Refuerzo-escolar-Secundaria-Comunicacion",
+        "Refuerzo-escolar-Secundaria-Matematica",
+        "Casa-de-la-Literatura-Peruana",
+        "Aprendo-en-Casa-Secundaria",
+        "Comprension-lectora-Secundaria"
+    ]
+}

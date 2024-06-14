@@ -1,0 +1,39 @@
+{
+    "inicial": [
+        "https://www.perueduca.pe/#/home/materiales-educativos/inicial/herramientas-pedagogicas-inicial",
+        "https://www.perueduca.pe/#/home/materiales-educativos/inicial/dotacion-2024-inicial",
+        "https://www.perueduca.pe/#/home/materiales-educativos/inicial/inicial-ingles-5-anios",
+        "https://www.perueduca.pe/#/home/materiales-educativos/inicial/inicial-ingles-4-anios",
+        "https://www.perueduca.pe/#/home/materiales-educativos/inicial/inicial-ingles-3-anios",
+        "https://www.perueduca.pe/#/home/materiales-educativos/inicial/aprendo-en-casa-inicial",
+        "https://www.perueduca.pe/#/home/materiales-educativos/inicial/materiales-educativos-inicial",
+        "https://www.perueduca.pe/#/home/materiales-educativos/inicial/comprension-lectora-inicial",
+        "https://www.perueduca.pe/#/home/materiales-educativos/inicial/apropiacion-de-la-lectura-y-escritura-inicial"
+    ],
+    "primaria": [
+        "https://www.perueduca.pe/#/home/materiales-educativos/primaria/aprendemos-juntos-en-familia",
+        "https://www.perueduca.pe/#/home/materiales-educativos/primaria/apropiacion-de-la-lectura-y-escritura-primaria",
+        "https://www.perueduca.pe/#/home/materiales-educativos/primaria/dotacion-2024-primaria",
+        "https://www.perueduca.pe/#/home/materiales-educativos/primaria/fichas-para-seguir-aprendiendo-comunicacion",
+        "https://www.perueduca.pe/#/home/materiales-educativos/primaria/fichas-para-seguir-aprendiendo-matematica",
+        "https://www.perueduca.pe/#/home/materiales-educativos/primaria/fichas-para-el-soporte-socioemocional",
+        "https://www.perueduca.pe/#/home/materiales-educativos/primaria/aprendo-en-casa-defid",
+        "https://www.perueduca.pe/#/home/materiales-educativos/primaria/fasciculos-de-evaluacion-diagnostica",
+        "https://www.perueduca.pe/#/home/materiales-educativos/primaria/aprendo-en-casa-primaria",
+        "https://www.perueduca.pe/#/home/materiales-educativos/primaria/comprension-lectora-primaria",
+        "https://www.perueduca.pe/#/home/materiales-educativos/primaria/coleccion-aprendo-en-casa",
+        "https://www.perueduca.pe/#/home/materiales-educativos/primaria/construccion-de-la-nocion-de-numero",
+        "https://www.perueduca.pe/#/home/materiales-educativos/primaria/plan-de-lectura-2023-primaria"
+    ],
+    "secundaria": [
+        "https://www.perueduca.pe/#/home/materiales-educativos/secundaria/evaluacion-diagnostica-refuerzo-escolar-2024",
+        "https://www.perueduca.pe/#/home/materiales-educativos/secundaria/herramientas-pedagogicas-secundaria",
+        "https://www.perueduca.pe/#/home/materiales-educativos/secundaria/dotacion-2024-secundaria",
+        "https://www.perueduca.pe/#/home/materiales-educativos/secundaria/desarrollo-de-habilidades-socioemocionales",
+        "https://www.perueduca.pe/#/home/materiales-educativos/secundaria/refuerzo-escolar-secundaria-comunicacion",
+        "https://www.perueduca.pe/#/home/materiales-educativos/secundaria/refuerzo-escolar-secundaria-matematica",
+        "https://www.perueduca.pe/#/home/materiales-educativos/secundaria/casa-de-la-literatura-peruana",
+        "https://www.perueduca.pe/#/home/materiales-educativos/secundaria/aprendo-en-casa-secundaria",
+        "https://www.perueduca.pe/#/home/materiales-educativos/secundaria/comprension-lectora-secundaria"
+    ]
+}
